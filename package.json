@@ -1,0 +1,18 @@
+{
+  "name": "easy-barrage",
+  "author": "Silen Yang",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SilenYang/Barrage.git"
+  },
+  "keywords": [
+    "barrage",
+    "easy-barrage"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SilenYang/Barrage/issues"
+  }
+}
